@@ -1,0 +1,91 @@
+var preguntas = `{
+    "1": {
+        "p" : "1. ¿Cuál es el significado de la señal vertical de la imagen?",
+        "a" : "Ceda el paso",
+        "b" : "Prioridad en sentido contrario",
+        "c" : "Prohibido el paso",
+        "ok": "a",
+        "R" : "false"
+    },
+    
+    "2": {
+        "p" : "2. ¿Cuántas luces de gálibo deberá llevar un vehículo?",
+        "a" : "Dos traseras",
+        "b" : "Dos delanteras",
+        "c" : "Dos delanteras y dos traseras",
+        "ok": "c",
+        "R" : "false"
+    },
+    
+    "3": {
+        "p" : "3. ¿Qué vehículos estarán obligados a llevar un juego de lamparas de recambio?",
+        "a" : "Todos",
+        "b" : "Únicamente los especiales de motor",
+        "c" : "Ninguno, es opcional llevarlo",
+        "ok": "a",
+        "R" : "false"
+    },
+    
+    "4": {
+        "p" : "4. ¿En qué momento del día es necesario llevar iluminada la placa trasera de un vehículo?",
+        "a" : "En las horas de más sol",
+        "b" : "Nunca se debe llevar iluminada la placa trasera, solamente la delantera",
+        "c" : "Entre la puesta y la salida del sol",
+        "ok": "c",
+        "R" : "false"
+    },
+    
+    "5": {
+        "p" : "5. ¿Podrá utilizarse simultáneamente la luz de corto alcance y la antiniebla delantera?",
+        "a" : "Únicamente en caso de condiciones atmostféricas adversas",
+        "b" : "No, está prohibido en todo caso",
+        "c" : "Sí, se deben utilizar siempre a la vez",
+        "ok": "a",
+        "R" : "false"
+    },
+    
+    "6": {
+        "p" : "6. ¿Se puede llevar una única luz halógena en una misma luz de un faro?",
+        "a" : "No, ambos dispositivos deben ser iguales",
+        "b" : "Si, siempre que la halógena tenga la misma intensidad lumínica",
+        "c" : "Sí, no hay problema",
+        "ok": "a",
+        "R" : "false"
+    },
+    
+    "7": {
+        "p" : "¿7. Se debe por lo general invadir los arcenes de la vía cuando se conduce?",
+        "a" : "Sí, siempre que se pueda",
+        "b" : "Sí, pero solo en cuidad",
+        "c" : "No",
+        "ok": "c",
+        "R" : "false"
+    },
+    
+    "8": {
+        "p" : "8. ¿En qué tipo de vías existe menor riesgo de que se produzcan accidentes?",
+        "a" : "En travesías e intersecciones",
+        "b" : "En carreteras sinuosas",
+        "c" : "En autopista y autovías",
+        "ok": "c",
+        "R" : "false"
+    },
+    
+    "9": {
+        "p" : "9. ¿Por qué carril se debe circular en las calzadas con doble sentido y tres carriles?",
+        "a" : "Por el izquierdo",
+        "b" : "Por el derecho",
+        "c" : "Por el central",
+        "ok": "b",
+        "R" : "false"
+    },
+    
+    "10": {
+        "p" : "10. ¿En qué idioma deben ser escritas las indicaciones de las señales de circulación?",
+        "a" : "Únicamente en la lengua oficial de la comunidad autónoma",
+        "b" : "Al menos en castellano",
+        "c" : "Únicamente en castellano",
+        "ok": "b",
+        "R" : "false"
+    }
+}`
